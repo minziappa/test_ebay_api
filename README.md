@@ -5,7 +5,7 @@
 * More [information](http://projects.spring.io/spring-framework) about Spring4.
 * More [information](https://www.gradle.org) about Gradle.
 
-## Requirements environment 
+## Requires environments 
 
 * [Java7](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 * [Gradle](https://services.gradle.org/distributions/gradle-2.3-all.zip)
