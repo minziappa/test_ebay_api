@@ -1,4 +1,4 @@
-# testweb_ebay_api
+# test_ebay_api
 
 ## About
 * More [information](http://freemarker.org) about Freemarker.
